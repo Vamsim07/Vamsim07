@@ -1,5 +1,6 @@
 # 💫 About Me:
-my self vamsi<br>i'm graduation in 2025<br>fullstack developer <br>cyber security enthusiest<br>love to play the chess game
+Hi, I’m Vamsi 👋<br>
+I’m a Full-Stack Developer graduating in 2025, with a strong interest in cybersecurity.<br> I enjoy building secure, scalable web applications and continuously improving my skills through real-world projects.<br> Outside of coding, I enjoy playing chess, which helps sharpen my problem-solving and strategic thinking.
 
 
 ## 🌐 Socials:
